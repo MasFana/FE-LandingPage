@@ -13,7 +13,7 @@ Proyek ini adalah sebuah landing page sederhana yang dirancang untuk memberikan 
 1. Clone repository ini ke komputer Anda:
 
 ```bash
-git clone https://github.com/Iannn-vbeta/landingPage.git
+git clone https://github.com/Iannn-vbeta/FE-LandingPage.git
 ```
 
 2. Buka file `index.html` di browser Anda.
