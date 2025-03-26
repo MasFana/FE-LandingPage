@@ -1,0 +1,50 @@
+[
+  {
+    "image": "assets/Tour-Gunung-Bromo.jpg",
+    "title": "Bromo 1D2N",
+    "description": "Nikmati keindahan Gunung Bromo dengan perjalanan singkat selama 1 hari 2 malam.",
+    "rate": 4.5
+  },
+  {
+    "image": "assets/Paket-Camping.jpg",
+    "title": "Bromo 3D4N",
+    "description": "Pengalaman camping seru di Gunung Bromo selama 3 hari 4 malam.",
+    "rate": 3.5
+  },
+  {
+    "image": "assets/ijen.jpg",
+    "title": "Full Tour Kawah Ijen",
+    "description": "Jelajahi keindahan Kawah Ijen dengan fenomena blue fire yang memukau.",
+    "rate": 5
+  },
+  {
+    "image": "assets/kapas-biru.jpg",
+    "title": "Tumpak Sewu Trip",
+    "description": "Kunjungi air terjun Tumpak Sewu yang megah dan menakjubkan.",
+    "rate": 4.5
+  },
+  {
+    "image": "assets/lava-tour-s.jpg",
+    "title": "Lava Tour Merapi",
+    "description": "Rasakan sensasi off-road di sekitar Gunung Merapi dengan Lava Tour.",
+    "rate": 3.5
+  },
+  {
+    "image": "assets/kawah-wurung.jpg",
+    "title": "Kawah Wurung Trip",
+    "description": "Nikmati pemandangan alam yang indah di Kawah Wurung.",
+    "rate": 5
+  },
+  {
+    "image": "assets/pantai-papuma.jpg",
+    "title": "Papuma Surfing",
+    "description": "Berselancar di ombak Pantai Papuma yang eksotis.",
+    "rate": 4.5
+  },
+  {
+    "image": "assets/images2.jpg",
+    "title": "Dataran Tinggi Dieng",
+    "description": "Eksplorasi keindahan alam dan budaya di Dataran Tinggi Dieng.",
+    "rate": 3.5
+  }
+]
